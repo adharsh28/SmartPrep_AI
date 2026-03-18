@@ -1,2 +1,2 @@
-First install all the requirements from the requirements.txt file
-To run this file "stramlit run app.py"
+First install all the requirements from the requirements.txt file.
+Then run this command "stramlit run app.py"
